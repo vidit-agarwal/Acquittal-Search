@@ -1,0 +1,1731 @@
+1501811797912	geckodriver	INFO	Listening on 127.0.0.1:57166
+1501811799077	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.owq3ZMJNnW47
+1501811799078	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501811799095	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40379
+1501811804638	Marionette	INFO	Listening on port 40379
+[Child 14948] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 14948] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14948] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1501813163480	geckodriver	INFO	Listening on 127.0.0.1:60718
+1501813164595	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.N1K3TkBv2eVS
+1501813164595	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501813164598	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35232
+1501813165578	Marionette	INFO	Listening on port 35232
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501822254448	geckodriver	INFO	Listening on 127.0.0.1:59823
+1501822255546	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jYe7JnHPCQVx
+1501822255547	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501822255550	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36996
+1501822256514	Marionette	INFO	Listening on port 36996
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501923999008	geckodriver	INFO	Listening on 127.0.0.1:53531
+1501924000162	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LOArodVCB66h
+1501924000163	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501924000180	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40917
+1501924005745	Marionette	INFO	Listening on port 40917
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501924020770	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:5584): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5584): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5584): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5584): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5584): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5584): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1501924263901	geckodriver	INFO	Listening on 127.0.0.1:43084
+1501924265004	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.494YR3x7tT0A
+1501924265004	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501924265006	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38814
+1501924265970	Marionette	INFO	Listening on port 38814
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501924278012	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:5893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501924710244	geckodriver	INFO	Listening on 127.0.0.1:38579
+1501924711342	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qKVAYGkHyTL0
+1501924711343	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501924711344	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33466
+1501924712328	Marionette	INFO	Listening on port 33466
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501924724537	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:6198): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6198): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6198): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6198): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6198): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6198): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501924956895	geckodriver	INFO	Listening on 127.0.0.1:42669
+1501924957990	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cgNiDGAN3F1S
+1501924957991	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501924957992	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35668
+1501924958911	Marionette	INFO	Listening on port 35668
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501924971460	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:6589): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6589): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6589): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6589): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6589): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6589): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501925090643	geckodriver	INFO	Listening on 127.0.0.1:54269
+1501925091751	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Mei9Pj3BoDgX
+1501925091751	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501925091753	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32816
+1501925092711	Marionette	INFO	Listening on port 32816
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501925104462	Marionette	WARN	Using deprecated data structure for setting timeouts
+1501925106246	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:6743): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6743): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6743): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6743): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6743): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6743): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501925330480	geckodriver	INFO	Listening on 127.0.0.1:44583
+1501925331592	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5p3KcLDSXX4X
+1501925331593	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501925331594	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36055
+1501925332510	Marionette	INFO	Listening on port 36055
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501925345358	Marionette	WARN	Using deprecated data structure for setting timeouts
+1501925347253	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:7083): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7083): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7083): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7083): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7083): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7083): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501925516578	geckodriver	INFO	Listening on 127.0.0.1:59620
+1501925517663	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YXiqFvzm41wP
+1501925517664	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501925517678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43393
+1501925518633	Marionette	INFO	Listening on port 43393
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501925531511	Marionette	WARN	Using deprecated data structure for setting timeouts
+1501925533161	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:7401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501997794680	geckodriver	INFO	Listening on 127.0.0.1:55975
+1501997795830	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.B2qfFwD4DKyG
+1501997795831	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501997795893	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43083
+1501997801281	Marionette	INFO	Listening on port 43083
+1501997905009	geckodriver	INFO	Listening on 127.0.0.1:34282
+1501997906118	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pJKbzwUY3bds
+1501997906119	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501997906122	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34374
+1501997907068	Marionette	INFO	Listening on port 34374
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501997919279	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:5519): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5519): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5519): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5519): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5519): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5519): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1501997921329	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1501997989286	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1502005293121	geckodriver	INFO	Listening on 127.0.0.1:55085
+1502005294230	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NUvu8ZaXBRBF
+1502005294231	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502005294234	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33316
+1502005295185	Marionette	INFO	Listening on port 33316
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502005306601	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:7760): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7760): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7760): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7760): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7760): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7760): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1502005308653	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502005400015	geckodriver	INFO	Listening on 127.0.0.1:36582
+1502005401125	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3eXxzekm2ZPh
+1502005401126	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502005401128	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43008
+1502005402163	Marionette	INFO	Listening on port 43008
+[Child 7988] WARNING: pipe error (29): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7988] WARNING: pipe error (17): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7988] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7988] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7988] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502005409558	geckodriver	INFO	Listening on 127.0.0.1:46146
+1502005410663	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.n2SzSMncJpAW
+1502005410663	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502005410666	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37118
+1502005411594	Marionette	INFO	Listening on port 37118
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502005422734	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:8038): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8038): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8038): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8038): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8038): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8038): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1502005424966	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502005488487	geckodriver	INFO	Listening on 127.0.0.1:34944
+1502005489613	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JiAIZBn1TuOb
+1502005489614	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502005489617	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41128
+1502005490556	Marionette	INFO	Listening on port 41128
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502005755470	geckodriver	INFO	Listening on 127.0.0.1:38243
+1502005756593	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dR7Vm75tKwUk
+1502005756593	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502005756596	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35719
+1502005757616	Marionette	INFO	Listening on port 35719
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502005836905	geckodriver	INFO	Listening on 127.0.0.1:44123
+1502005838008	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KnQBsnDymtEg
+1502005838009	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502005838012	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34489
+1502005838959	Marionette	INFO	Listening on port 34489
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502005982026	geckodriver	INFO	Listening on 127.0.0.1:50044
+1502005983130	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TFoJRfuvdmrF
+1502005983131	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502005983134	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37973
+1502005984081	Marionette	INFO	Listening on port 37973
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502005995301	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502005997227	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:8708): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8708): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8708): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8708): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8708): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8708): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006054461	geckodriver	INFO	Listening on 127.0.0.1:49050
+1502006055592	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.boMhI0A6cQoX
+1502006055592	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502006055595	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41237
+1502006056531	Marionette	INFO	Listening on port 41237
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006067941	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:8847): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8847): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8847): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8847): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8847): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8847): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1502006070069	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006139670	geckodriver	INFO	Listening on 127.0.0.1:55205
+1502006140788	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1xwBaIH3GFmL
+1502006140789	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502006140792	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41906
+1502006141744	Marionette	INFO	Listening on port 41906
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006152426	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:9003): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9003): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9003): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9003): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9003): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9003): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1502006154492	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006201237	geckodriver	INFO	Listening on 127.0.0.1:49854
+1502006202341	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Rn848ZHBrdgy
+1502006202342	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502006202344	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43340
+1502006203283	Marionette	INFO	Listening on port 43340
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006216052	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:9133): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9133): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9133): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9133): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9133): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9133): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1502006217977	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006377271	geckodriver	INFO	Listening on 127.0.0.1:54952
+1502006378371	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uqXHLnkwEVWu
+1502006378371	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502006378374	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42383
+1502006379298	Marionette	INFO	Listening on port 42383
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006419173	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:9325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1502006419444	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006481238	geckodriver	INFO	Listening on 127.0.0.1:54249
+1502006482360	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1KznWiIP84ZE
+1502006482361	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502006482363	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35776
+1502006483263	Marionette	INFO	Listening on port 35776
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502006495577	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:9481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1502006497004	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502008592019	geckodriver	INFO	Listening on 127.0.0.1:35315
+1502008593137	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6vOarIKmaXBA
+1502008593138	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502008593140	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41829
+1502008594119	Marionette	INFO	Listening on port 41829
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502008605746	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502008626852	geckodriver	INFO	Listening on 127.0.0.1:45118
+1502008627954	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kKpKLE2CaZBJ
+1502008627955	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502008627957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33585
+1502008629028	Marionette	INFO	Listening on port 33585
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502008646006	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502009057510	geckodriver	INFO	Listening on 127.0.0.1:53045
+1502009058612	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.asEhX3PNBC41
+1502009058613	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502009058616	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40868
+1502009059567	Marionette	INFO	Listening on port 40868
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502009080544	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502010101184	geckodriver	INFO	Listening on 127.0.0.1:52862
+1502010102303	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hcEk3Hannj5d
+1502010102304	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502010102306	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36524
+1502010103258	Marionette	INFO	Listening on port 36524
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502010116698	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502010175130	geckodriver	INFO	Listening on 127.0.0.1:57379
+1502010176236	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UXJAs4QN2hnR
+1502010176237	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502010176240	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44542
+1502010177219	Marionette	INFO	Listening on port 44542
+[Child 11231] WARNING: pipe error (29): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 11231] WARNING: pipe error (17): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 11231] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 11231] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11231] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502010209953	geckodriver	INFO	Listening on 127.0.0.1:41537
+1502010211060	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lfLchPYssFZv
+1502010211060	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502010211063	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37663
+1502010212023	Marionette	INFO	Listening on port 37663
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502010222561	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502010254753	geckodriver	INFO	Listening on 127.0.0.1:40057
+1502010255854	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rOStfnvd4ODr
+1502010255855	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502010255857	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33822
+1502010256793	Marionette	INFO	Listening on port 33822
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502010268530	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502010292860	geckodriver	INFO	Listening on 127.0.0.1:54495
+1502010293963	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.r18mvgCoMnbk
+1502010293964	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502010293967	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41130
+1502010295119	Marionette	INFO	Listening on port 41130
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502010306144	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502010326334	geckodriver	INFO	Listening on 127.0.0.1:54443
+1502010327443	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jBpcLmSS72in
+1502010327444	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502010327446	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33928
+1502010328462	Marionette	INFO	Listening on port 33928
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502010339927	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502010478980	geckodriver	INFO	Listening on 127.0.0.1:53502
+1502010480097	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.roeMe1g7Kxi6
+1502010480098	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502010480101	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36113
+1502010481055	Marionette	INFO	Listening on port 36113
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502010492375	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502010519383	geckodriver	INFO	Listening on 127.0.0.1:40983
+1502010520480	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.N6BqIpLPLQKz
+1502010520481	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502010520484	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39811
+1502010521408	Marionette	INFO	Listening on port 39811
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502010532041	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12046] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 12046] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 12046] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502010691072	geckodriver	INFO	Listening on 127.0.0.1:59038
+1502010692175	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FPm9pvhydPBC
+1502010692176	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502010692179	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37850
+1502010693102	Marionette	INFO	Listening on port 37850
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502010704042	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 12249] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 12249] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 12249] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502012452173	geckodriver	INFO	Listening on 127.0.0.1:41565
+1502012453279	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.unQrfR1tA4i7
+1502012453280	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502012453282	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34452
+1502012454241	Marionette	INFO	Listening on port 34452
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502012466285	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502012494045	geckodriver	INFO	Listening on 127.0.0.1:55098
+1502012495149	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xTdwlweDrOYK
+1502012495150	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502012495152	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46237
+1502012496088	Marionette	INFO	Listening on port 46237
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502012512065	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502016164262	geckodriver	INFO	Listening on 127.0.0.1:54298
+1502016165372	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RdZE7GVExuPp
+1502016165373	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502016165376	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40843
+1502016166285	Marionette	INFO	Listening on port 40843
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502016177446	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 17692] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17692] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502016229590	geckodriver	INFO	Listening on 127.0.0.1:49360
+1502016230692	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eGISbpZX49qR
+1502016230693	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502016230695	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39068
+1502016231625	Marionette	INFO	Listening on port 39068
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502016242804	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502016260677	geckodriver	INFO	Listening on 127.0.0.1:57866
+1502016261781	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FnVVQrFmFhqw
+1502016261781	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502016261784	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44635
+1502016262725	Marionette	INFO	Listening on port 44635
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502016284273	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17961] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 17961] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17961] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502016419112	geckodriver	INFO	Listening on 127.0.0.1:50378
+1502016420222	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.79JZ1iyaMcDy
+1502016420223	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502016420227	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33665
+1502016421180	Marionette	INFO	Listening on port 33665
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+[Child 18112] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18112] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502016646517	geckodriver	INFO	Listening on 127.0.0.1:37553
+1502016647620	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XskP4C42fFok
+1502016647621	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502016647624	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45227
+1502016648562	Marionette	INFO	Listening on port 45227
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502020083615	geckodriver	INFO	Listening on 127.0.0.1:45015
+1502020084728	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4Zs9xxuf4Qop
+1502020084729	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502020084735	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43548
+1502020085701	Marionette	INFO	Listening on port 43548
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502020408923	geckodriver	INFO	Listening on 127.0.0.1:46976
+1502020410027	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HwPxTR703Qyk
+1502020410028	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502020410031	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38988
+1502020410955	Marionette	INFO	Listening on port 38988
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502020614796	geckodriver	INFO	Listening on 127.0.0.1:40493
+1502020615898	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jwWxfPYE8ivk
+1502020615898	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502020615901	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38211
+1502020616802	Marionette	INFO	Listening on port 38211
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502020701292	geckodriver	INFO	Listening on 127.0.0.1:37831
+1502020702416	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.od3hkkcJynmc
+1502020702416	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502020702419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32805
+1502020703348	Marionette	INFO	Listening on port 32805
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502020781466	geckodriver	INFO	Listening on 127.0.0.1:37122
+1502020782569	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YDMy43T6DFPi
+1502020782570	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502020782572	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39215
+1502020783533	Marionette	INFO	Listening on port 39215
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502021114384	geckodriver	INFO	Listening on 127.0.0.1:41698
+1502021115484	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ObJNF5sAIPjS
+1502021115485	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502021115486	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44082
+1502021116387	Marionette	INFO	Listening on port 44082
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502021190122	geckodriver	INFO	Listening on 127.0.0.1:53822
+1502021191233	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.igvABS5u5ZTh
+1502021191234	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502021191245	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39882
+1502021192475	Marionette	INFO	Listening on port 39882
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502021717585	geckodriver	INFO	Listening on 127.0.0.1:58101
+1502021718690	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.J7cY1SEq2eeY
+1502021718691	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502021718694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44241
+1502021719710	Marionette	INFO	Listening on port 44241
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502021780049	geckodriver	INFO	Listening on 127.0.0.1:55887
+1502021781152	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UKBdj1c0weFh
+1502021781153	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502021781156	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36894
+1502021782078	Marionette	INFO	Listening on port 36894
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502021969864	geckodriver	INFO	Listening on 127.0.0.1:39059
+1502021970968	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.s5sahmZMpjqU
+1502021970968	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502021970971	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37960
+1502021971892	Marionette	INFO	Listening on port 37960
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+[Child 21495] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 21495] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1502022067042	geckodriver	INFO	Listening on 127.0.0.1:47388
+1502022068153	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MwKDnrrNID8Z
+1502022068153	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502022068156	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40400
+1502022069191	Marionette	INFO	Listening on port 40400
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+[Child 21638] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 21638] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+1502022226125	geckodriver	INFO	Listening on 127.0.0.1:36354
+1502022227231	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.T1PWY11rCozN
+1502022227232	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502022227235	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32959
+1502022228128	Marionette	INFO	Listening on port 32959
+1502022286604	geckodriver	INFO	Listening on 127.0.0.1:44065
+1502022287706	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.A8vqFOA35OD1
+1502022287707	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502022287710	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46080
+1502022288612	Marionette	INFO	Listening on port 46080
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502022371387	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 22162] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 22162] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1502022949744	geckodriver	INFO	Listening on 127.0.0.1:53339
+1502022950850	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0LcMz32zCKJe
+1502022950851	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502022950854	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46811
+1502022951787	Marionette	INFO	Listening on port 46811
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 22384] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 22384] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 22384] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502026111523	geckodriver	INFO	Listening on 127.0.0.1:49463
+1502026112633	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oUqoQQnRVc00
+1502026112634	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502026112637	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36394
+1502026114225	Marionette	INFO	Listening on port 36394
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502026144724	geckodriver	INFO	Listening on 127.0.0.1:38462
+1502026145828	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JuJdvfGJZCZm
+1502026145828	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502026145831	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45582
+1502026146773	Marionette	INFO	Listening on port 45582
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 23890] WARNING: pipe error (17): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 23890] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 23890] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502027018032	geckodriver	INFO	Listening on 127.0.0.1:36314
+1502027019143	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AjqLo5tiIISs
+1502027019144	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502027019147	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46851
+1502027020140	Marionette	INFO	Listening on port 46851
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502027057142	geckodriver	INFO	Listening on 127.0.0.1:37090
+1502027058243	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.23dn3JVmvKUf
+1502027058244	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502027058247	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36077
+1502027059263	Marionette	INFO	Listening on port 36077
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502027137021	geckodriver	INFO	Listening on 127.0.0.1:34773
+1502027138125	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ePIXJNM0OgSJ
+1502027138126	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502027138128	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37944
+1502027139064	Marionette	INFO	Listening on port 37944
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502027151224	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502027199694	geckodriver	INFO	Listening on 127.0.0.1:44704
+1502027200807	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.svTutEu6R2li
+1502027200808	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502027200810	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42293
+1502027201734	Marionette	INFO	Listening on port 42293
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502027213475	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 24615] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 24615] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24615] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502027279357	geckodriver	INFO	Listening on 127.0.0.1:45815
+1502027280457	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pgiRSIKR3tSg
+1502027280458	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502027280461	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37162
+1502027281403	Marionette	INFO	Listening on port 37162
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502027292101	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502027369656	geckodriver	INFO	Listening on 127.0.0.1:40554
+1502027370759	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OmQB2XaSdRLl
+1502027370760	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502027370763	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44316
+1502027371704	Marionette	INFO	Listening on port 44316
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502027383442	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 24885] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24885] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+1502027499869	geckodriver	INFO	Listening on 127.0.0.1:52072
+1502027500975	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nsjrsS7H9SwR
+1502027500975	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502027500978	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40794
+1502027501909	Marionette	INFO	Listening on port 40794
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502027514562	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 25037] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25037] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502027773441	geckodriver	INFO	Listening on 127.0.0.1:44609
+1502027774563	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mdbOUXi7K3gG
+1502027774564	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502027774575	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45111
+1502027775588	Marionette	INFO	Listening on port 45111
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502027786817	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:25246): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25246): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25246): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25246): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25246): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25246): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 25314] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25314] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502029004517	geckodriver	INFO	Listening on 127.0.0.1:44897
+1502029005632	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CZO59mupPR1j
+1502029005633	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502029005635	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45403
+1502029006602	Marionette	INFO	Listening on port 45403
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502029017691	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:25681): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25681): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25681): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25681): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25681): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25681): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502031603364	geckodriver	INFO	Listening on 127.0.0.1:39905
+1502031604465	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gSFJv2MNKAzn
+1502031604466	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502031604470	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37533
+1502031605433	Marionette	INFO	Listening on port 37533
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502031618326	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:26878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 26942] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 26942] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1502032045405	geckodriver	INFO	Listening on 127.0.0.1:42533
+1502032046509	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AWNjYre5BzQr
+1502032046510	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502032046513	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46130
+1502032047373	Marionette	INFO	Listening on port 46130
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502032068337	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:27082): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27082): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27082): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27082): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27082): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27082): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 27145] WARNING: pipe error (17): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 27145] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 27145] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502032090806	geckodriver	INFO	Listening on 127.0.0.1:54722
+1502032091933	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FzE9WOxljcnq
+1502032091933	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502032091936	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33682
+1502032092881	Marionette	INFO	Listening on port 33682
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502032122879	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:27215): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27215): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27215): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27215): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27215): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27215): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 27275] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 27275] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1502032326852	geckodriver	INFO	Listening on 127.0.0.1:50458
+1502032327957	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SiEnAnprpxTx
+1502032327958	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502032327961	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36292
+1502032328901	Marionette	INFO	Listening on port 36292
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+1502032346738	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:27443): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27443): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27443): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27443): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27443): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27443): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 27506] WARNING: pipe error (17): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 27506] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 27506] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9C0001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+1502288632583	geckodriver	INFO	Listening on 127.0.0.1:57215
+1502288633716	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VOIWQKuZTHQM
+1502288633717	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502288633735	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37502
+1502288639165	Marionette	INFO	Listening on port 37502
+1502288664543	geckodriver	INFO	Listening on 127.0.0.1:40368
+1502288665656	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AeKLRUL6GN9b
+1502288665657	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502288665660	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35400
+1502288666761	Marionette	INFO	Listening on port 35400
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9757683154964762&format=641x60&output=html&h=60&slotname=3315816414&adk=1711669781&adf=794649605&w=641&lmt=1502245938&loeid=201222033&rafmt=1&flash=24.0.0&fwr=0&url=http%3A%2F%2Fwww.legalserviceindia.com%2Flawyers%2Flawyers_home.htm&resp_fmts=3&wgl=1&dt=1502288671280&bpp=12&bdt=890&fdt=23&idt=421&shv=r20170807&cbv=r20170110&saldr=aa&correlator=1202033712884&frm=20&ga_vid=238444078.1502288672&ga_sid=1502288672&ga_hid=1650035251&ga_fc=0&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=330&u_his=1&u_java=1&u_h=1080&u_w=1920&u_ah=1053&u_aw=1920&u_cd=24&u_nplug=6&u_nmime=83&adx=276&ady=1023&biw=1266&bih=876&abxe=1&eid=201222023%2C575144605%2C828064250&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C310%2C42%2C1920%2C0%2C1280%2C947%2C1280%2C876&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=f&pfx=0&fu=144&bc=1&ifi=1&xpc=MMnZOt3OsY&p=http%3A//www.legalserviceindia.com&dtd=507, line 1: ReferenceError: js is not defined
+1502288754927	geckodriver	INFO	Listening on 127.0.0.1:59634
+1502288756033	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dhYHRQWzIla5
+1502288756033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502288756036	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41395
+1502288756958	Marionette	INFO	Listening on port 41395
+1502288767579	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+1502288793289	geckodriver	INFO	Listening on 127.0.0.1:59874
+1502288794401	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.k6b28ebEya77
+1502288794402	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502288794405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39386
+1502288795362	Marionette	INFO	Listening on port 39386
+1502288801100	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502288820173	geckodriver	INFO	Listening on 127.0.0.1:48018
+1502288821279	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RHcJB7kzs7Us
+1502288821280	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502288821283	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41908
+1502288822257	Marionette	INFO	Listening on port 41908
+1502288833701	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502288852670	geckodriver	INFO	Listening on 127.0.0.1:33113
+1502288853776	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Lvs6ewRIeLI6
+1502288853777	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502288853780	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34042
+1502288854727	Marionette	INFO	Listening on port 34042
+1502288861423	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502288904925	geckodriver	INFO	Listening on 127.0.0.1:49220
+1502288906029	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.E8uiAWTilxgb
+1502288906030	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502288906033	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40108
+1502288906967	Marionette	INFO	Listening on port 40108
+1502288913474	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502288942899	geckodriver	INFO	Listening on 127.0.0.1:40800
+1502288944010	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CHuk8hJuqYbP
+1502288944011	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502288944014	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36805
+1502288944920	Marionette	INFO	Listening on port 36805
+1502288952275	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502290268109	geckodriver	INFO	Listening on 127.0.0.1:35839
+1502290268732	geckodriver	INFO	Listening on 127.0.0.1:39201
+1502290269834	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.p1ZNfjcVesEN
+1502290269834	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502290269838	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40554
+1502290270779	Marionette	INFO	Listening on port 40554
+1502290278990	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502290588286	geckodriver	INFO	Listening on 127.0.0.1:51277
+1502290589395	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gcL5H7KQOrqD
+1502290589396	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502290589399	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44566
+1502290590346	Marionette	INFO	Listening on port 44566
+1502290598536	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502290645527	geckodriver	INFO	Listening on 127.0.0.1:34531
+1502290646629	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3D8v1u6naHFD
+1502290646629	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502290646632	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42695
+1502290647608	Marionette	INFO	Listening on port 42695
+1502290652734	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1502290667806	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502290687871	geckodriver	INFO	Listening on 127.0.0.1:47199
+1502290689002	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fAAmfNvqcnzB
+1502290689002	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502290689005	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44215
+1502290689896	Marionette	INFO	Listening on port 44215
+1502290698080	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502290733494	geckodriver	INFO	Listening on 127.0.0.1:49711
+1502290734614	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FleraAT3v9kN
+1502290734614	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502290734617	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33883
+1502290735527	Marionette	INFO	Listening on port 33883
+1502290741874	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502292273087	geckodriver	INFO	Listening on 127.0.0.1:53614
+1502292274206	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kZ6gmQpQyCt4
+1502292274207	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502292274209	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38202
+1502292275190	Marionette	INFO	Listening on port 38202
+1502292324894	geckodriver	INFO	Listening on 127.0.0.1:50392
+1502292325997	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6WuuZcQ7E2n3
+1502292325997	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502292326000	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44839
+1502292326989	Marionette	INFO	Listening on port 44839
+1502292334410	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502292351866	geckodriver	INFO	Listening on 127.0.0.1:35511
+1502292352975	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Kz4jNMGhX39t
+1502292352975	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502292352978	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44431
+1502292353985	Marionette	INFO	Listening on port 44431
+1502292367509	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502292414963	geckodriver	INFO	Listening on 127.0.0.1:44362
+1502292416070	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.D8ZTIhJ5jO2G
+1502292416070	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502292416073	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37071
+1502292417014	Marionette	INFO	Listening on port 37071
+JavaScript error: , line 0: uncaught exception: undefined
+1502292436098	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502292557867	geckodriver	INFO	Listening on 127.0.0.1:33947
+1502292558971	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tU4wzfHENqS4
+1502292558972	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502292558975	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35119
+1502292559933	Marionette	INFO	Listening on port 35119
+1502292597552	Marionette	WARN	Using deprecated data structure for setting timeouts
+1502293139876	geckodriver	INFO	Listening on 127.0.0.1:35795
+1502293140977	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lXlHWj3qx9Vx
+1502293140978	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502293140981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37344
+1502293141975	Marionette	INFO	Listening on port 37344
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9757683154964762&format=641x60&output=html&h=60&slotname=3315816414&adk=1711669781&adf=794649605&w=641&lmt=1502245938&rafmt=1&flash=24.0.0&fwr=0&url=http%3A%2F%2Fwww.legalserviceindia.com%2Flawyers%2Flawyers_home.htm&resp_fmts=3&wgl=1&dt=1502293146671&bpp=16&bdt=779&fdt=27&idt=392&shv=r20170807&cbv=r20170110&saldr=aa&correlator=6866720423090&frm=20&ga_vid=431667234.1502293147&ga_sid=1502293147&ga_hid=222066759&ga_fc=0&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=330&u_his=1&u_java=1&u_h=1080&u_w=1920&u_ah=1053&u_aw=1920&u_cd=24&u_nplug=6&u_nmime=83&adx=276&ady=1023&biw=1266&bih=876&abxe=1&eid=575144605%2C26835105%2C33895411&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C310%2C42%2C1920%2C0%2C1280%2C947%2C1280%2C876&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=144&bc=1&ifi=1&xpc=Fl7azH8HY5&p=http%3A//www.legalserviceindia.com&dtd=439, line 1: ReferenceError: js is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502293169856	geckodriver	INFO	Listening on 127.0.0.1:54211
+1502293170980	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nGef9O3Te7O7
+1502293170981	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502293170984	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43843
+1502293172303	Marionette	INFO	Listening on port 43843
+JavaScript error: , line 0: uncaught exception: undefined
+1502293229927	geckodriver	INFO	Listening on 127.0.0.1:56074
+1502293231038	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lM6ya1JslBPa
+1502293231039	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502293231041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35181
+1502293232046	Marionette	INFO	Listening on port 35181
+1502293279899	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began (resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:464:17) JS Stack trace: this.XPIDatabase.saveChanges@XPIProviderUtils.js:464:17 < this.XPIProvider.verifySignatures/</<@XPIProvider.jsm:3272:9
+1502293324668	geckodriver	INFO	Listening on 127.0.0.1:43258
+1502293325786	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FONNvqZifg7V
+1502293325787	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502293325789	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43341
+1502293326729	Marionette	INFO	Listening on port 43341
+1502293353806	geckodriver	INFO	Listening on 127.0.0.1:53908
+1502293354910	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nTYe6OhWBp5g
+1502293354911	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502293354913	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39607
+1502293355874	Marionette	INFO	Listening on port 39607
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502294861994	geckodriver	INFO	Listening on 127.0.0.1:33001
+1502294863110	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dNwURKoA1SRs
+1502294863111	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502294863113	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36993
+1502294864026	Marionette	INFO	Listening on port 36993
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9757683154964762&format=641x60&output=html&h=60&slotname=3315816414&adk=1711669781&adf=794649605&w=641&lmt=1502293505&rafmt=1&flash=24.0.0&fwr=0&url=http%3A%2F%2Fwww.legalserviceindia.com%2Flawyers%2Flawyers_home.htm&resp_fmts=3&wgl=1&dt=1502294868769&bpp=63&bdt=848&fdt=74&idt=516&shv=r20170807&cbv=r20170110&saldr=aa&correlator=2387990540940&frm=20&ga_vid=1366218656.1502294869&ga_sid=1502294869&ga_hid=904145693&ga_fc=0&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=330&u_his=1&u_java=1&u_h=1080&u_w=1920&u_ah=1053&u_aw=1920&u_cd=24&u_nplug=6&u_nmime=83&adx=276&ady=1023&biw=1266&bih=876&abxe=1&eid=575144605&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C310%2C42%2C1920%2C0%2C1280%2C947%2C1280%2C876&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=144&bc=1&ifi=1&xpc=HTXywxKdv1&p=http%3A//www.legalserviceindia.com&dtd=575, line 1: ReferenceError: js is not defined
+1502294943601	geckodriver	INFO	Listening on 127.0.0.1:39121
+1502294944706	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dz6T2NAvMGE8
+1502294944707	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502294944709	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42156
+1502294946103	Marionette	INFO	Listening on port 42156
+1502294973459	geckodriver	INFO	Listening on 127.0.0.1:42621
+1502294974576	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uivBZMprBwav
+1502294974577	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502294974579	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41105
+1502294975474	Marionette	INFO	Listening on port 41105
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9757683154964762&format=641x60&output=html&h=60&slotname=3315816414&adk=1721818388&adf=4204655383&w=641&lmt=1502293505&rafmt=1&flash=24.0.0&fwr=0&url=http%3A%2F%2Fwww.legalserviceindia.com%2Flawyers%2Flawyers_home.htm&resp_fmts=3&wgl=1&dt=1502294980005&bpp=11&bdt=816&fdt=543&idt=599&shv=r20170807&cbv=r20170110&saldr=aa&prev_fmts=641x60&correlator=4634746743076&frm=20&ga_vid=325381579.1502294980&ga_sid=1502294980&ga_hid=730134565&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=330&u_his=1&u_java=1&u_h=1080&u_w=1920&u_ah=1053&u_aw=1920&u_cd=24&u_nplug=6&u_nmime=83&adx=276&ady=1542&biw=1266&bih=876&abxe=1&eid=575144605%2C20040042%2C20040066&oid=3&nmo=1&rx=0&eae=0&fc=528&brdim=%2C%2C310%2C42%2C1920%2C0%2C1280%2C947%2C1280%2C876&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=f&pfx=0&fu=144&bc=1&ifi=2&xpc=CePefYDKSL&p=http%3A//www.legalserviceindia.com&dtd=637, line 1: ReferenceError: js is not defined
+1502295004771	geckodriver	INFO	Listening on 127.0.0.1:58387
+1502295005883	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.s7pjF0fL1Ase
+1502295005884	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502295005887	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36264
+1502295006876	Marionette	INFO	Listening on port 36264
+[Child 14982] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 14982] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14982] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1502295016909	geckodriver	INFO	Listening on 127.0.0.1:57713
+1502295018014	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bo6a5jmD8tkJ
+1502295018015	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502295018018	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43640
+1502295019001	Marionette	INFO	Listening on port 43640
+1502295097084	geckodriver	INFO	Listening on 127.0.0.1:36961
+1502295098216	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.O8lpiTGvea8P
+1502295098216	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502295098219	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46605
+1502295099151	Marionette	INFO	Listening on port 46605
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9757683154964762&format=641x60&output=html&h=60&slotname=3315816414&adk=1721818388&adf=4204655383&w=641&lmt=1502293505&rafmt=1&flash=24.0.0&fwr=0&url=http%3A%2F%2Fwww.legalserviceindia.com%2Flawyers%2Flawyers_home.htm&resp_fmts=3&wgl=1&dt=1502295104081&bpp=11&bdt=902&fdt=606&idt=694&shv=r20170807&cbv=r20170110&saldr=aa&prev_fmts=641x60&correlator=3868475124569&frm=20&ga_vid=702652439.1502295105&ga_sid=1502295105&ga_hid=1828066933&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=330&u_his=1&u_java=1&u_h=1080&u_w=1920&u_ah=1053&u_aw=1920&u_cd=24&u_nplug=6&u_nmime=83&adx=276&ady=1542&biw=1266&bih=876&abxe=1&eid=575144605&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C310%2C42%2C1920%2C0%2C1280%2C947%2C1280%2C876&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=f&pfx=0&fu=144&bc=1&ifi=2&xpc=bhrhghed8G&p=http%3A//www.legalserviceindia.com&dtd=746, line 1: ReferenceError: js is not defined
+1502295366846	geckodriver	INFO	Listening on 127.0.0.1:41924
+1502295367950	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uPZ7HKTF1fkC
+1502295367950	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502295367953	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39378
+1502295368931	Marionette	INFO	Listening on port 39378
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9757683154964762&format=641x60&output=html&h=60&slotname=3315816414&adk=1721818388&adf=4204655383&w=641&lmt=1502293505&loeid=368226015&rafmt=1&flash=24.0.0&fwr=0&url=http%3A%2F%2Fwww.legalserviceindia.com%2Flawyers%2Flawyers_home.htm&resp_fmts=3&wgl=1&dt=1502295374307&bpp=14&bdt=1463&fdt=453&idt=501&shv=r20170807&cbv=r20170110&saldr=aa&prev_fmts=641x60&correlator=776916963860&frm=20&ga_vid=1547780871.1502295375&ga_sid=1502295375&ga_hid=1155198525&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=330&u_his=1&u_java=1&u_h=1080&u_w=1920&u_ah=1053&u_aw=1920&u_cd=24&u_nplug=6&u_nmime=83&adx=276&ady=1542&biw=1266&bih=876&abxe=1&eid=368226005%2C575144605&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C310%2C42%2C1920%2C0%2C1280%2C947%2C1280%2C876&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=f&pfx=0&fu=144&bc=1&ifi=2&xpc=PcofqFfS6R&p=http%3A//www.legalserviceindia.com&dtd=542, line 1: ReferenceError: js is not defined
+1502295556283	geckodriver	INFO	Listening on 127.0.0.1:44740
+1502295557399	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EjBL0fMCc3tP
+1502295557400	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502295557403	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40826
+1502295558358	Marionette	INFO	Listening on port 40826
+1502295601835	geckodriver	INFO	Listening on 127.0.0.1:53550
+1502295602976	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GwdSMsJ9WAPm
+1502295602977	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502295602980	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36255
+1502295604005	Marionette	INFO	Listening on port 36255
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9757683154964762&format=641x60&output=html&h=60&slotname=3315816414&adk=2488707037&adf=3747790717&w=641&lmt=1502293505&rafmt=1&flash=24.0.0&fwr=0&url=http%3A%2F%2Fwww.legalserviceindia.com%2Flawyers%2Flawyers_home.htm&resp_fmts=3&wgl=1&dt=1502295608895&bpp=11&bdt=917&fdt=720&idt=749&shv=r20170807&cbv=r20170110&saldr=aa&prev_fmts=641x60%2C641x60&correlator=7133685955759&frm=20&ga_vid=1126637155.1502295609&ga_sid=1502295609&ga_hid=1683686627&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=330&u_his=1&u_java=1&u_h=1080&u_w=1920&u_ah=1053&u_aw=1920&u_cd=24&u_nplug=6&u_nmime=83&adx=276&ady=2734&biw=1266&bih=876&abxe=1&eid=575144605&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C310%2C42%2C1920%2C0%2C1280%2C947%2C1280%2C876&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=f&pfx=0&fu=144&bc=1&ifi=3&xpc=7AXCKUKorq&p=http%3A//www.legalserviceindia.com&dtd=795, line 1: ReferenceError: js is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502295640926	geckodriver	INFO	Listening on 127.0.0.1:60558
+1502295641056	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Jm6r776crwB4
+1502295641057	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502295641060	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35043
+1502295642291	Marionette	INFO	Listening on port 35043
+1502295694615	geckodriver	INFO	Listening on 127.0.0.1:42272
+1502295695728	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.aat2WQN7BicB
+1502295695729	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502295695732	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33465
+1502295696794	Marionette	INFO	Listening on port 33465
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502296000917	geckodriver	INFO	Listening on 127.0.0.1:40993
+1502296001077	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UkkAXwvawVA4
+1502296001078	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1502296001079	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41264
+1502296002361	Marionette	INFO	Listening on port 41264
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9757683154964762&format=641x60&output=html&h=60&slotname=3315816414&adk=1721818388&adf=4204655383&w=641&lmt=1502293505&loeid=368226015&rafmt=1&flash=24.0.0&fwr=0&url=http%3A%2F%2Fwww.legalserviceindia.com%2Flawyers%2Flawyers_home.htm&resp_fmts=3&wgl=1&dt=1502296007124&bpp=11&bdt=928&fdt=636&idt=778&shv=r20170807&cbv=r20170110&saldr=aa&prev_fmts=641x60&correlator=5624331153115&frm=20&ga_vid=2011755862.1502296008&ga_sid=1502296008&ga_hid=175962266&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=330&u_his=1&u_java=1&u_h=1080&u_w=1920&u_ah=1053&u_aw=1920&u_cd=24&u_nplug=6&u_nmime=83&adx=276&ady=1542&biw=1266&bih=876&abxe=1&eid=368226005%2C453848104%2C575144605%2C828064251&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C310%2C42%2C1920%2C0%2C1280%2C947%2C1280%2C876&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=f&pfx=0&fu=144&bc=1&ifi=2&xpc=F3UhNJjim6&p=http%3A//www.legalserviceindia.com&dtd=822, line 1: ReferenceError: js is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C3,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1503056030743	geckodriver	INFO	Listening on 127.0.0.1:42618
+1503056031958	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xPRhXBlYzJuI
+1503056031958	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1503056031975	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45349
+1503056038266	Marionette	INFO	Listening on port 45349
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+JavaScript error: https://www.soolegal.com/assets/js/bootstrap-slider.js, line 407: TypeError: element is null
+1503056054252	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:8639): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8639): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8639): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8639): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8639): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8639): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8706] WARNING: pipe error (17): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 8706] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8706] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9C0001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1503056226759	geckodriver	INFO	Listening on 127.0.0.1:42029
+1503056227155	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8bf603rNjCJW
+1503056227156	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1503056227160	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36724
+1503056228954	Marionette	INFO	Listening on port 36724
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+JavaScript error: https://www.soolegal.com/assets/js/bootstrap-slider.js, line 407: TypeError: element is null
+1503056247997	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+(firefox:8859): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8859): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8859): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8859): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8859): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8859): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8922] WARNING: pipe error (17): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 8922] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8922] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1503056948359	geckodriver	INFO	Listening on 127.0.0.1:43381
+1503056949482	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9uSayX6KtCW6
+1503056949484	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1503056949489	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32787
+1503056950667	Marionette	INFO	Listening on port 32787
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+JavaScript error: https://www.soolegal.com/assets/js/bootstrap-slider.js, line 407: TypeError: element is null
+
+(firefox:9406): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9406): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9406): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9406): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9406): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9406): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1503057415398	geckodriver	INFO	Listening on 127.0.0.1:48988
+1503057416509	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.llRvNTsrxlnA
+1503057416510	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1503057416514	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41549
+1503057417673	Marionette	INFO	Listening on port 41549
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+JavaScript error: https://www.soolegal.com/assets/js/bootstrap-slider.js, line 407: TypeError: element is null
+
+(firefox:9733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9797] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 9797] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9797] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1503057490653	geckodriver	INFO	Listening on 127.0.0.1:48746
+1503057491778	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SfZJSXRlx1Cs
+1503057491779	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1503057491782	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43359
+1503057492961	Marionette	INFO	Listening on port 43359
+JavaScript warning: https://www.soolegal.com/assets/js/trustlogo.js, line 2: unreachable code after return statement
+JavaScript error: https://www.soolegal.com/assets/js/bootstrap-slider.js, line 407: TypeError: element is null
+
+(firefox:9883): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9883): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9883): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9883): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9883): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9883): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 9946] WARNING: pipe error (17): Connection reset by peer: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 9946] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9946] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9C0001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+Hit MOZ_CRASH(MsgDropped) at /tmp/buildd/firefox-51.0.1+linuxmint1+serena/ipc/glue/BackgroundChildImpl.cpp:143
