@@ -1,10 +1,10 @@
 from selenium import webdriver
 #import csv
 import pymysql
-conn = pymysql.connect(host ='tblproduction.cmx4mndnhogx.ap-south-1.rds.amazonaws.com' ,
+conn = pymysql.connect(host ='XXXX' ,
                        unix_socket='/tmp/mysql.sock',
-                       user='root',
-                       passwd='Aniket2606' ,
+                       user='XXXX',
+                       passwd='XXXX' ,
                        use_unicode=True ,
                        db='mysql' ,charset='utf8' )
 cur  = conn.cursor()
