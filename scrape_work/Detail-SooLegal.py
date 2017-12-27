@@ -7,7 +7,7 @@ from requests import HTTPError
 
 import pymysql
 
-conn_detail = pymysql.connect(host ='tblproduction.cmx4mndnhogx.ap-south-1.rds.amazonaws.com' , unix_socket='/tmp/mysql.sock', user='root', passwd='Aniket2606' , db='mysql' )
+conn_detail = pymysql.connect(host ='XXXX' , unix_socket='/tmp/mysql.sock', user='XXXX', passwd='XXXXX' , db='mysql' )
 #cur_detail  = conn_detail.cursor()
 cur_2 = conn_detail.cursor()
 #cur_detail.execute("USE machineLearning")
