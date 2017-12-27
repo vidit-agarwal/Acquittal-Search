@@ -4,8 +4,8 @@ DB : MySql db
 
 source : Amazon 
 
-command to connect : mysql -h tblproduction.cmx4mndnhogx.ap-south-1.rds.amazonaws.com -P 3306 -u root -p
-		   --> It will ask for password : Password : Aniket2606
+command to connect : mysql -h xxxxx -P xxxx -u root -p
+		   --> It will ask for password : Password : xxxxxxx
 
 		--> IN the databse , we have to use db " machineLearning " (don't touch any other database)
 
