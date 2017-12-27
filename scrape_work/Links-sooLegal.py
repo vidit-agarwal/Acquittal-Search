@@ -3,11 +3,6 @@ import time
 import csv
 import pymysql
 
-#conn = pymysql.connect(host ='tblproduction.cmx4mndnhogx.ap-south-1.rds.amazonaws.com' , unix_socket='/tmp/mysql.sock', user='root', passwd='Aniket2606' , db='mysql' )
-#cur  = conn.cursor()
-#cur.execute("USE machineLearning")
-
-
 driver = webdriver.PhantomJS(executable_path=r"/home/vidit/Desktop/phantomjs-2.1.1-linux-x86_64/bin/phantomjs")
 
 url = "https://www.soolegal.com/search?q"
