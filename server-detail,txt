@@ -1,9 +1,9 @@
-server : Amazon AWS EC2 instance 
+server : XXXXXXXX 
 
 OS running : Ubuntu 
 
 Space in server : 80G
 
-command to connect to server : ssh -i machinelearning.pem ubuntu@35.154.91.144
+command to connect to server : XXXXXXXXXXX
  				--> machinelearning.pem  is a file having username and password so store this file in the same directory where you run the command
 				--> rest is same
